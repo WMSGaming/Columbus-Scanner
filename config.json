@@ -1,0 +1,5 @@
+{
+    "enable_webhook": false,
+    "webhook_url": "",
+    "verbose": true
+}
